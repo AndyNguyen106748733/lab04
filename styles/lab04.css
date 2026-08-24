@@ -51,6 +51,10 @@ table, th, td {
     color: red;
 }
 
+.tableHeader {
+    text-align: right;
+}
+
 .special {
     color: darkorange;
     font-weight: bold;
