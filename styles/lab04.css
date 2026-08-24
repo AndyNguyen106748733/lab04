@@ -1,0 +1,28 @@
+/*
+
+filename: Andy Nguyen
+
+author: Andy Nguyen
+
+created: 24/08/2026
+
+last modified: 24/08/2026
+
+description: lab04.html css
+
+*/
+
+h1 { 
+    color: purple; 
+}
+
+h2 {
+    color: rgb(0,128,128);
+    font-weight: bold;
+    font-size: 1.5em;
+}
+
+* {
+    font-family: calibri, sans-serif;
+    color: #2F4F4F;
+}
