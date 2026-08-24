@@ -69,3 +69,13 @@ nav a {
 ol ul{
     list-style-type: square;
 }
+
+nav a:hover {
+    background-color: lightblue;
+    border-color: darkblue;
+}
+
+aside:hover {
+    visibility: hidden;
+}
+
