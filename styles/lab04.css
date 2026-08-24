@@ -43,3 +43,15 @@ table, th, td {
     border: 1px solid black;
 }
 
+#images {
+    text-align: center;
+}
+
+#headingsSubheading {
+    color: red;
+}
+
+.special {
+    color: darkorange;
+    font-weight: bold;
+}
